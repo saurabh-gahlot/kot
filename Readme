@@ -1,0 +1,10 @@
+Hi Team,
+
+I am writing this document in the hope that this project will expand and would require the team to
+maintain it.
+
+My plan on how to get this project up and running the development phase:
+1. It must be on github repository. __Done__ ( consider private repository afterwards )\
+2. It should be a maven build. ( To handle all the dependencies ).
+3. Software rule: Cheap,Good,Faster rule , you can have only 2 out of these three.
+
